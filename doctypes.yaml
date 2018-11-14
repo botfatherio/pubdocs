@@ -1,0 +1,10 @@
+doctypes:
+  - slug: apiref
+    name: API Reference
+    id_hidden: False
+  - slug: player
+    name: Player Guides
+    id_hidden: False
+  - slug: wizard
+    name: Wizard Guides
+    id_hidden: False
